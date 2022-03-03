@@ -1,5 +1,5 @@
 package chap01;
-
+// 연습문제 1~3
 public class Quiz01 {
     public static void main(String[] args) {
         System.out.println(max4(1,2,3,4));
